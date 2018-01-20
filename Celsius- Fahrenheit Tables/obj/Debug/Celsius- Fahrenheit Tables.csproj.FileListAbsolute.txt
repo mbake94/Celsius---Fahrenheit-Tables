@@ -7,3 +7,4 @@ C:\Users\Owners\Desktop\CIS162 HW\Celsius- Fahrenheit Tables\Celsius- Fahrenheit
 C:\Users\Owners\Desktop\CIS162 HW\Celsius- Fahrenheit Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius- Fahrenheit Tables.csproj.CoreCompileInputs.cache
 C:\Users\Owners\Desktop\CIS162 HW\Celsius- Fahrenheit Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius- Fahrenheit Tables.exe
 C:\Users\Owners\Desktop\CIS162 HW\Celsius- Fahrenheit Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius- Fahrenheit Tables.pdb
+C:\Users\Owners\Desktop\CIS162 HW\Celsius- Fahrenheit Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius- Fahrenheit Tables.csprojResolveAssemblyReference.cache

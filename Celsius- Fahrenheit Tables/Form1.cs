@@ -19,19 +19,22 @@ namespace Celsius__Fahrenheit_Tables
 
 		private void btnBuild_Click(object sender, EventArgs e)
 		{
-			double celsius, lowCelsius, highCelsius, fahrenheit, xyz;
+			double lowCelsius, highCelsius, fahrenheit;
 			double increments;
+			string celsius;
 			lowCelsius = Double.Parse(txtLowTemp.Text);
 			highCelsius = Double.Parse(txtHighTemp.Text);
 			increments = Double.Parse(txtIncrement.Text);
-			xyz = lowCelsius + increments;
-			
-			if (lowCelsius <  highCelsius)
+			fahrenheit = (1.8 * lowCelsius) + 32;
+ 
+			for (double i = lowCelsius; i <= highCelsius; increments++)
 			{
-				
+
+				celsius = lowCelsius.PadRight(15); 
+				celsius &= fahrenheit.Parce("C2").PadLeft(5);
+				lstConverter.Items.Add(celsius);
+
 			}
-
-
 		}
 	}
 }
