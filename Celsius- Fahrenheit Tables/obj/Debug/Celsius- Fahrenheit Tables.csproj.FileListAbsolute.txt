@@ -8,3 +8,13 @@ C:\Users\Owners\Desktop\CIS162 HW\Celsius- Fahrenheit Tables\Celsius- Fahrenheit
 C:\Users\Owners\Desktop\CIS162 HW\Celsius- Fahrenheit Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius- Fahrenheit Tables.exe
 C:\Users\Owners\Desktop\CIS162 HW\Celsius- Fahrenheit Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius- Fahrenheit Tables.pdb
 C:\Users\Owners\Desktop\CIS162 HW\Celsius- Fahrenheit Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius- Fahrenheit Tables.csprojResolveAssemblyReference.cache
+C:\Users\AndrewCanDoAll\Source\Repos\Celsius---Fahrenheit-Tables\Celsius- Fahrenheit Tables\bin\Debug\Celsius- Fahrenheit Tables.exe.config
+C:\Users\AndrewCanDoAll\Source\Repos\Celsius---Fahrenheit-Tables\Celsius- Fahrenheit Tables\bin\Debug\Celsius- Fahrenheit Tables.exe
+C:\Users\AndrewCanDoAll\Source\Repos\Celsius---Fahrenheit-Tables\Celsius- Fahrenheit Tables\bin\Debug\Celsius- Fahrenheit Tables.pdb
+C:\Users\AndrewCanDoAll\Source\Repos\Celsius---Fahrenheit-Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius- Fahrenheit Tables.csprojResolveAssemblyReference.cache
+C:\Users\AndrewCanDoAll\Source\Repos\Celsius---Fahrenheit-Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius__Fahrenheit_Tables.Form1.resources
+C:\Users\AndrewCanDoAll\Source\Repos\Celsius---Fahrenheit-Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius__Fahrenheit_Tables.Properties.Resources.resources
+C:\Users\AndrewCanDoAll\Source\Repos\Celsius---Fahrenheit-Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius- Fahrenheit Tables.csproj.GenerateResource.Cache
+C:\Users\AndrewCanDoAll\Source\Repos\Celsius---Fahrenheit-Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius- Fahrenheit Tables.csproj.CoreCompileInputs.cache
+C:\Users\AndrewCanDoAll\Source\Repos\Celsius---Fahrenheit-Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius- Fahrenheit Tables.exe
+C:\Users\AndrewCanDoAll\Source\Repos\Celsius---Fahrenheit-Tables\Celsius- Fahrenheit Tables\obj\Debug\Celsius- Fahrenheit Tables.pdb
